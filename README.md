@@ -1,1 +1,0 @@
-# js-Challenge2
